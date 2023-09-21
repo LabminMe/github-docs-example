@@ -156,7 +156,7 @@ Here is a codeblock of the previously created table of emojis
 |  |  |  |
 
 ```
-
+![Secret Window / Hidden Garden](/secret-window/hidden-garden.md)
 
 
 ## Citing our Sources by creating References
