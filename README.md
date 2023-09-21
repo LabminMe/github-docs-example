@@ -54,6 +54,10 @@ print("Array with input values:", value_array)
 ```
 ## Adding a picture 
 Adding a picture is also helpful
-file:///home/james/Downloads/terraform_iac_hotpot-ai.png
+- first add the 3 (`)
+- then drag and drop a picture from your computer to the document
+
+```
+
 
 
